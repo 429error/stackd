@@ -1,3 +1,4 @@
+Built "STACKD" - a full stack personal bucket list tracker for keeping a track of all the list that we want to do or wish to do.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
