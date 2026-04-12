@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## STACK USED
 --Next.js
+
 --MongoDB
 
 ## Getting Started
